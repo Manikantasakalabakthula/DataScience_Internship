@@ -1,12 +1,15 @@
-# COGNIFYZ
-Data Science Internship Tasks by @COGNIFY Technologies🎉.
+# COGNIFYZ TECHNOLOGY
+Data Science Internship Tasks by @Cognifyz Technologies🎉.
 
-Role Data Science Intern❤️💫.
+I Complted All The Levels Of Data Science Internship🥳
 
-The role I've involved:  
-Collecting Data, Cleaning Data, Interpreting Data, and development of data-driven solutions.
 
-In this the tasks are divided into 3 Levels and each level has 3 Tasks.
+📢There are 3 Levels In This Internship.
+  Every Level Contains 3 Tasks
+
+It upgrades like basic level to advance level
+
+The levels and tasks are mentioned below - 👇👇👇
 
 ## Level-1 Task-1
 **Data Exploration and Preprocessing.** 
@@ -70,6 +73,8 @@ Determining if there are any specific cuisines that tend to receive higher ratin
 Creating visualizations to represent the distribution of ratings using different charts (histogram, bar plot, etc.).
 Comparing the average ratings of different cuisines or cities using appropriate visualizations.
 Visualizing the relationship between various features and the target variable to gain insights.
+
+You Can Watch All The Reference Videos In My LinedIn Profile :- https://www.linkedin.com/in/sakalabakthula-manikanta-199783203/
 
 
 Thanks to COGNIFYZ Technologies for providing this opportunity❤️.
